@@ -175,6 +175,8 @@ font-family: muli,sans-serif;
 font-size: 27px; 
     padding: 10px;
  }   
+
+
 .company{
 
     font-size: 27px;
@@ -265,11 +267,12 @@ font-size: 27px;
 .section10{
     background-color: #1A2024;
     color: #FFFFFF;
-    height: 60px;
+    height: 100px;
+    
   }
   
   .tex{
-    margin-left: 60px;
+    
     margin-top: 20px;
     display: inline-block;
   
@@ -278,8 +281,7 @@ font-size: 27px;
   .al{
     text-decoration: none;
     font-family: 'Muli', sans-serif;
-    margin-left: 20px;
-    margin-right: 20px;
+    
     color: #FFFFFF;
   
   }
@@ -292,7 +294,7 @@ font-size: 27px;
   }
   .aa{
     display: inline-block;
-    margin-left: 220px;
+    
   }
   .www{
     margin-left: 10px;
@@ -300,4 +302,10 @@ font-size: 27px;
   
   }
 
- 
+  li{
+    text-align: left;
+}
+
+ul{
+    text-align: left;
+}
